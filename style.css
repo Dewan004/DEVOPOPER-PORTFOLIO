@@ -2,7 +2,7 @@ body{font-family: 'Poppins', sans-serif;
 margin: 0;}
 h1{font-size: 50px;}
 .peter{color: orange;}
-section{display: flex;
+.flexible-container{display: flex;
 margin-bottom: 150px;}
 .half-width{width: 50%;
 padding: auto;}
